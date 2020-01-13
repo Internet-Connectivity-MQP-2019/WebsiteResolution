@@ -1,0 +1,3 @@
+[submodule "DigForPy"]
+	path = DigForPy
+	url = https://github.com/Internet-Connectivity-MQP-2019/DigForPy.git
